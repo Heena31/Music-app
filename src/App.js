@@ -1,8 +1,11 @@
+import React from "react";
+import Moviecard from "./Moviecard";
 function App() {
   return (
-    <div>
-    
-    </div>
+    <>
+    <h1>Movie App</h1>
+    <Moviecard/>
+    </>
   );
 }
 
